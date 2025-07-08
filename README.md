@@ -1,3 +1,3 @@
 # Double_Number
 
-Checks the input Value is of Double Type or not
+Takes only input Values of Double 
